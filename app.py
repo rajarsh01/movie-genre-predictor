@@ -127,7 +127,7 @@ if st.button("Predict Genre 🚀", type="primary", use_container_width=True):
                 with colB:
                     st.markdown("**Data Preprocessing:**")
                     st.markdown(f"- Original words: **{word_count}**")
-                    st.markdown(f"- Words retained after cleaning: **{len(cleaned_text.split())**}")
+                    st.markdown(f"- Words retained after cleaning: **{len(cleaned_text.split())}**")
                 
                 st.markdown("**What the AI 'saw' (Stopwords removed):**")
                 st.text(cleaned_text)
