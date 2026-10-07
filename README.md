@@ -23,7 +23,7 @@ This project utilizes a custom-trained Logistic Regression model and TF-IDF vect
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/movie-genre-predictor.git](https://github.com/YOUR_GITHUB_USERNAME/movie-genre-predictor.git)
+   git clone [https://github.com/rajarsh01/movie-genre-predictor.git](https://github.com/rajarsh01/movie-genre-predictor.git)
 
    cd movie-genre-predictor
    pip install -r requirements.txt
